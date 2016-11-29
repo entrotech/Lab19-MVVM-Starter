@@ -9,7 +9,7 @@
         <SolidColorBrush x:Key="SolidBorderBrush" Color="#0e6dad"></SolidColorBrush>
 
         <!-- Default Control Styles -->
-        <Style TargetType="Button">
+        <Style TargetType="Button" >
             <Setter Property="Margin" Value="4" />
         </Style>
         <Style TargetType="TextBox" >
